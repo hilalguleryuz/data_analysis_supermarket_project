@@ -12,12 +12,6 @@ For the project at the end of the "Excel Data Analysis" module, I developed a co
 
 The data and insights obtained from this project can assist the supermarket chain in making strategic decisions to enhance its profitability. Analyzing such data during the training process significantly contributed to the development of my real-world application skills.
 
-<br>
-
-📻 You can access the 3-minute project presentation, in which I explain the insights derived from my analyses, through the link:
-https://youtu.be/FYAcviE2OWY3
-
-
 The screenshots of the dashboard are provided below:
 <br>
 
